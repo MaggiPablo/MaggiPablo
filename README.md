@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a Documentation Software <br>🤝 I’m looking for help with everything<br>🌱 I’m currently learning Javascript and C#<br>💬 Ask me about not about my Code<br>⚡ Fun fact my Code is worse than you think
+🔭 I’m currently working on a Documentation Software <br>🤝 I’m looking for help with everything<br>🌱 I’m currently learning Javascript and C#<br>💬 Don´t ask me about my Code<br>⚡ Fun fact my Code is worse than you think
 
 
 ## 🌐 Socials:
